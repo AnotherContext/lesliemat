@@ -25,7 +25,10 @@ shinyUI(pageWithSidebar(
     HTML("<hr />"),
     radioButtons("scale_type","Choose scale of the plot:",
                  list("Semi log y" ="logar", 
-                      "Linear"="linear"))
+                      "Linear"="linear")), 
+
+    HTML("<hr />"),
+    helpText(HTML("All source available on <a href = \"https://github.com/AnotherContext/lesliemat.git\" target=_blank>Github</a>")) 
   ),
   mainPanel(
     tabsetPanel(
