@@ -1,6 +1,6 @@
 Age-structured Pacific salmon population model
 ========================================================
-This is an adaptation of a view over Age-structured Pacific salmon population model through number of interactive plots with data supplied by R through Shiny in real- time. 
+This is an adaptation of a view over age-structured Pacific salmon population model through number of interactive plots with data supplied by R through Shiny in real- time. 
 
 
 Overview
