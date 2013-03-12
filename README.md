@@ -18,3 +18,4 @@ Description, details of the model and instructions are available [here](http://g
 
 For general Shiny instuctions, please refer to [R-Studio tutorial](http://rstudio.github.com/shiny/tutorial/).
 
+[My other projects and WIP](http://anothercontext.co.uk/).
